@@ -2,12 +2,12 @@
 
 Seja bem vindo ao Livro de Receitas ! :wave:
 
-- Strogonoff de Frango
+- [Strogonoff de Frango](https://github.com/jlqueiroz/livro-receitas/blob/master/receitas/strogonoff.md)
 
-- Feijoada
+- [Feijoada](https://github.com/jlqueiroz/livro-receitas/blob/master/receitas/feijoada.md)
 
-- Dobradinha
+- [Dobradinha](https://github.com/jlqueiroz/livro-receitas/blob/master/receitas/dobradinha.md)
 
-- Rabada
+- [Rabada](https://github.com/jlqueiroz/livro-receitas/blob/master/receitas/rabada.md)
 
   
